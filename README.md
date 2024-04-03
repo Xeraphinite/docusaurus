@@ -1,6 +1,14 @@
 # Docusaurus-based Blog
 
+## Tech Stacks
+
+shadcn/ui
+
 ## TODOs
+
+### Tailwind
+
+- [ ] Tailwind 适配
 
 ### Config-Related
 
@@ -11,4 +19,5 @@
 
 - [ ] Landing Page
 - [ ] Typograhpy
+  - [ ] Web Font Choices
 - [ ] Accessibility
